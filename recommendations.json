@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ndis-support-2024",
+    "name": "National Disability Insurance Scheme (NDIS) – Assistive Technology & Employment Support",
+    "type": "program",
+    "description": "NDIS provides funding for Australians with disabilities to access assistive technology, job coaching, and workplace modifications. It can help cover adaptive equipment and support services for remote work.",
+    "eligibility": [
+      "Australian citizen or permanent resident",
+      "Aged under 65",
+      "Permanent and significant disability (mobility impairment qualifies)"
+    ],
+    "benefits": "Funding for adaptive technology, job coaching, and workplace accessibility; personalized support plans.",
+    "applicationSteps": [
+      "Check eligibility and gather medical documentation",
+      "Register and apply via the NDIS website or call center",
+      "Attend a planning meeting to discuss needs and goals"
+    ],
+    "contactInfo": {
+      "website": "https://www.ndis.gov.au/",
+      "phone": "1800 800 110",
+      "email": "enquiries@ndis.gov.au"
+    },
+    "relevanceScore": 97,
+    "location": "Sydney, Australia"
+  },
+  {
+    "id": "australian-computer-society-remote-dev",
+    "name": "Australian Computer Society (ACS) – Remote Software Developer Job Board",
+    "type": "job",
+    "description": "ACS offers a curated job board with remote and flexible software developer roles, including positions with inclusive employers committed to accessibility.",
+    "eligibility": [
+      "Relevant IT degree (Master of Computer Science qualifies)",
+      "Australian work rights",
+      "Experience in software development"
+    ],
+    "benefits": "Access to remote, flexible jobs; employers with disability inclusion policies; networking and mentoring opportunities.",
+    "applicationSteps": [
+      "Register for free ACS membership (student or graduate tier)",
+      "Set up job alerts for remote/flexible roles",
+      "Apply directly to suitable positions"
+    ],
+    "contactInfo": {
+      "website": "https://www.acs.org.au/careers/job-board.html",
+      "phone": "+61 2 9299 3666",
+      "email": "careers@acs.org.au"
+    },
+    "relevanceScore": 92,
+    "location": "Remote"
+  },
+  {
+    "id": "pwd-scholarship-uni-sydney",
+    "name": "University of Sydney – Disability Support Scholarship",
+    "type": "funding",
+    "description": "A scholarship for postgraduate students with disabilities, supporting living and study costs. Open to students with mobility impairments.",
+    "eligibility": [
+      "Enrolled in postgraduate study at University of Sydney",
+      "Registered with Disability Services",
+      "Documented disability (mobility impairment included)"
+    ],
+    "benefits": "Financial support (up to $7,000); access to campus accessibility resources; priority for assistive technology loans.",
+    "applicationSteps": [
+      "Register with University Disability Services",
+      "Prepare supporting documentation (medical and academic)",
+      "Submit online scholarship application"
+    ],
+    "contactInfo": {
+      "website": "https://www.sydney.edu.au/scholarships/a/disability-support-scholarship.html",
+      "phone": "+61 2 8627 1444",
+      "email": "disability.services@sydney.edu.au"
+    },
+    "relevanceScore": 85,
+    "location": "Sydney, Australia"
+  }
+]
